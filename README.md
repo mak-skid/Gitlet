@@ -1,5 +1,5 @@
 # Gitlet
-A Github-like Version Control System for storing file backups.
+A Github-like Version Control System for storing file backups. This is a part of UC Berkeley's CS61B Data Structures and Algorithms module that I self-studied during my undergraduate program.
 
 ## Getting started
 Compile all the java classes:
