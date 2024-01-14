@@ -3,7 +3,7 @@ A Github-like Version Control System for storing file backups.
 
 ## Getting started
 Compile all the java classes:
-`javac gitlet/Main.java gitlet/Staging.java gitlet/Repo.java gitlet/Branch.java gitlet/Commit.java gitlet/Head.java gitlet/Status.java`
+`javac gitlet/Main.java gitlet/Blob.java gitlet/Commit.java gitlet/Dumpable.java gitlet/DumpObj.java gitlet/GitletExeption.java gitlet/Index.java gitlet/Repository.java gitlet/Utils.java`
 
 ## How to use Gitlet
 
